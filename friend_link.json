@@ -1,0 +1,51 @@
+[
+    {
+      "title": "WC-WordsCraft",
+      "link": "https://www.wcmc.top",
+      "describe": "（服主：A_Words）",
+      "image": "https://www.wcmc.top/images/logo.png",
+      "content": "WC 全称为 WC-WordsCraft 文字工艺，一个主攻 Minecraft 原版技术型生存的服务器。目前外服对外开放，只需拥有正版账号即可进入。"
+    },
+    {
+      "title": "ChunkBase",
+      "link": "https://www.chunkbase.com/apps/",
+      "describe": "群系结构查询器",
+      "image": "https://www.chunkbase.com/img/logo.png",
+      "content": "ChunkBase是一个可以以种子号来搜索地图中的结构和生物群系的网站，你可以在这里搜索诸如刷怪笼、蘑菇岛、竹林、神殿，甚至是末地船等结构。你还可以在这里通过随机种子生成世界，并在其中挑选一个你想要的。"
+    },
+    {
+      "title": "Minecraft",
+      "link": "https://www.minecraft.net/zh-hans",
+      "describe": "Minecraft 官方网站",
+      "image": "https://www.minecraft.net/content/dam/games/minecraft/logos/logo-minecraft.svg",
+      "content": "这里是我的世界（Minecraft）的官网链接。很多人以为官网会直接跳转中国版，其实不然：你只需要点击跳转弹窗右下角的那行小字“留在Minecraft.net”即可。"
+    },
+    {
+      "title": "MCBBS",
+      "link": "https://www.mcbbs.net/",
+      "describe": "我的世界中文论坛",
+      "image": "",
+      "content": "MCBBS至少之前是中文MC圈子活跃度最高的地方，里面的新闻板块和问答板块比较值得一看。MCBBS还收录了许多游戏资源和搬运帖。现在它走了.."
+    },
+    {
+      "title": "MC Mod",
+      "link": "https://www.mcmod.cn/",
+      "describe": "最大的中文MC Mod百科",
+      "image": "https://www.mcmod.cn/static/public/images/logo.png",
+      "content": "他确实是最大的中文MC Mod百科。在这个网站上面查Mod真的非常方便，你也可以在上面发布转载帖，或者寻找自己喜欢的Mod."
+    },
+    {
+      "title": "Modrinth",
+      "link": "https://modrinth.com/",
+      "describe": "新兴的模组发布平台",
+      "image": "https://modrinth.com/favicon.ico",
+      "content": "Modrinth是一个新兴的模组发布平台，越来越多的模组选择在这里发布。"
+    },
+    {
+      "title": "Minecraft Wiki",
+      "link": "https://zh.minecraft.wiki/",
+      "describe": "Minecraft Wiki",
+      "image": "https://zh.minecraft.wiki/images/Wiki%402x.png?809cd",
+      "content": "中文Minecraft Wiki致力于收集一切和Minecraft有关的信息。你可以在这里找到几乎所有游戏相关的内容，或者是我们服务器审核试题的答案."
+    }
+  ]
