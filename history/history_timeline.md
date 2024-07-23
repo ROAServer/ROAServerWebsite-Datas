@@ -31,7 +31,7 @@ type TimelineLine = HistoryTitle | HistoryContent
 var history_timeline: TimelineLine[]
 ```
 
-``` json
+``` json5
 [
   {                                    // 一个时间线标题项目
     "type": "primary"
